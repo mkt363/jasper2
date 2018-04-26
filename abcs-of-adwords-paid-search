@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <!-- Document Settings -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Base Meta -->
+    <!-- dynamically fixing the title for tag/author pages -->
+
+
+
+    <title>Search Marketing Topics And Optimization | Under The Seo</title>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Styles'n'Scripts -->
+    <link rel="stylesheet" type="text/css" href="assets/built/screen.css" />
+    <link rel="stylesheet" type="text/css" href="assets/built/screen.edited.css" />
+    <!-- highlight.js -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.3.0/styles/default.min.css">
+    <style>.hljs { background: none; }</style>
+
+    <!-- This tag outputs SEO meta+structured data and other important settings -->
+    <meta name="description" content="Search Marketing Topics And Optimization" />
+    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/png" />
+    <link rel="canonical" href="/abcs-of-adwords-paid-search" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+
+     <!--title below is coming from _includes/dynamic_title-->
+    <meta property="og:site_name" content="Under The Seo" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="ABCs of Adwords Paid Search" />
+    <meta property="og:description" content="It can be hard to keep up with the Adwords paid search terminology. Reference this handy-dandy list if you ever get stumped." />
+    <meta property="og:url" content="/jasper2/abcs-of-adwords-paid-search" />
+    <meta property="og:image" content="/jasper2/assets/images/welcome.jpg" />
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Website",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Under The Seo",
+        "logo": "assets/images/blog-icon.png"
+    },
+    "url": "/abcs-of-adwords-paid-search
+",
+    "image": {
+        "@type": "ImageObject",
+        "url": "assets/images/welcome.jpg",
+        "width": 2000,
+        "height": 666
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "/abcs-of-adwords-paid-search
+
+    },
+    "description": "It can be hard to keep up with the Adwords paid search terminology. Reference this handy-dandy list if you ever get stumped."
+}
+    </script>
+
+    <!-- <script type="text/javascript" src="https://demo.ghost.io/public/ghost-sdk.min.js?v=724281a32e"></script>
+    <script type="text/javascript">
+    ghost.init({
+    	clientId: "ghost-frontend",
+    	clientSecret: "f84a07a72b17"
+    });
+    </script> -->
+
+    <meta name="generator" content="Jekyll 3.6.2" />
+    <link rel="alternate" type="application/rss+xml" title="Welcome to Under The Seo" href="/feed.xml" />
+
+
+</head>
+<body class="post-template">
+
+    <div class="site-wrapper">
+        <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
+        <!-- default -->
+
+<!-- The tag above means: insert everything in this file
+into the {body} of the default.hbs template -->
+
+<header class="site-header outer">
+    <div class="inner">
+        <nav class="site-nav">
+    <div class="site-nav-left">
+        
+            
+                <!--<a class="site-nav-logo" href="/jasper2/"><img width="500" src="assets/images/undertheseologo.png" alt="Under The Seo" /></a>-->
+            
+        
+        
+            <ul class="nav" role="menu">
+    <li class="nav-home" role="menuitem"><a href="">Home</a></li>
+
+</ul>
+
+        
+    </div>
+</nav>
+
+    </div>
+</header>
+
+<!-- Everything inside the #post tags pulls data from the post -->
+<!-- #post -->
+
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+
+        <article class="post-full post">
+
+            <header class="post-full-header">
+                <section class="post-full-meta">
+                    <time class="post-full-meta-date" datetime="4 April 2018">April 4, 2018</time>
+                    
+                   
+                            
+                        
+                    
+                </section>
+                <h1 class="post-full-title">ABCs of Adwords Paid Search</h1>
+                <h2 class="post-card-title">Search Marketing Topics and Optimization</h2>
+                
+            </header>
+
+            
+            <figure class="post-full-image" style="background-image: url(assets/images/welcome.jpg)">
+            </figure>
+            
+
+            <section class="post-full-content">
+                <div class="kg-card-markdown">
+                    <p>When learning the basics of using Adwords for paid search, it can be hard to keep up with all of the terminology.</p>
+
+<p>Reference this handy-dandy list if you ever get stumped.</p>
+
+<h2>A is for Adwords</h2>
+<p>Google Adwords is an online advertising platform where users run campaigns and pay to have ads displayed to help them reach their marketing goals.</p>
+
+<h2>B is for Bids</h2>
+<p>A bid is the amount an advertiser is willing to pay for a user to click, view, or engage with their content.</p>
+
+
+<h2>C is for Campaigns</h2>
+<p>A campaign is a one or multiple ad groups that share budgeting, location, and targeting information.</p>
+
+
+<h2>D is for Demographic Targeting</h2>
+<p>Demographic targeting allows an advertiser to target their ads to users based on information such as age, gender, household income, etc.</p>
+
+
+<h2>E is for Enhanced Cost-Per-Click</h2>
+<p>Enhanced Cost-Per-Click (ECPC) is form of cost-per-click bidding, where the bid amount is automatically adjusted for clicks that seem more likely to lead to a conversion on a website.</p>
+
+
+<h2>F is for Fundamentals Assessment</h2>
+<p>The Adwords Fundamentals Assessment is a online test, including topics on paid search, for those who wish to obtain an Adwords certification.</p>
+
+
+<h2>G is for Google</h2>
+<p>Google is the name of the search engine and company that runs Adwords.</p>
+
+<h2>H is for Home Page Experience</h2>
+<p>A user's experience with the home page or landing page of a  website will affect its search ranking.</p>
+
+
+<h2>I is for Impressions</h2>
+<p>An impression counts as any time an advertiser’s website or content shows up on search results or other Google Network sites, for users to see.</p>
+
+
+<h2>J is for Jobs in Paid Search</h2>
+<p>Careers in paid search include SEM Specialist, Internet Marketing Manager, SEO Analyst, PPC Specialist and more.</p>
+
+
+<h2>K is for Keyword Planner</h2>
+<p>Keyword Planner is a tool provided through Google that auto-generates thousands of keyword ideas along with information on them such as search volume, competitiveness, and cost-per-click.</p>
+
+
+<h2>L is for Language Targeting</h2>
+<p>Language targeting is targeting an ad in a different language based on a certain audience. Ex. Running an ad in Spanish.</p>
+
+
+<h2>M is for Mobile Ads</h2>
+<p>Mobile ads refer to ads that show up on users’ phones or tablet devices.</p>
+
+
+<h2>N is for Negative Keywords</h2>
+<p>Negative keywords are words that an advertisers does not want their ads showing up for.</p>
+
+
+<h2>O is for Optimizing</h2>
+<p>Optimizing ads for search will improve metrics such as click-through-rate or conversions.</p>
+
+
+<h2>P is for Paid Search</h2>
+<p>Paid search refers to ads that advertisers pay to show up in search results vs organic results that show up naturally.</p>
+
+
+<h2>Q is for Quality Score</h2>
+<p>Quality score rates the quality and relevance of ads.</p>
+
+
+<h2>R is for Remarketing</h2>
+<p>Remarketing shows advertisers a who has visited their website, allowing them to market to these users again.</p>
+
+
+<h2>S is for Search Network</h2>
+<p>The Search Network is a group of search-related websites where ads can appear including: search results, Google Maps, or on the websites of Google search partners.</p>
+
+
+<h2>T is for Tools Tab</h2>
+<p>The Tools tab in Adwords can give you valuable information on conversions, analytics, and diagnostics.</p>
+
+
+<h2>U is for Under The Seo</h2>
+<p>A great website for learning the basics of SEO ;)</p>
+
+
+<h2>V is for Video Ads</h2>
+<p>Advertisers can also pay to have video ads show within search results on Youtube.</p>
+
+
+<h2>W is for Writing Content</h2>
+<p>Writing relevant and unique content will improve search ad rank.</p>
+
+
+<h2>X is for (E)xtensions</h2>
+<p>Ad extensions are relevant information that can be appended to an ad such as a phone number, a price, or business hours.</p>
+
+
+<h2>Y is for YouTube</h2>
+<p>YouTube search results are also a place where advertisers can pay to show ads.</p>
+
+
+<h2>Z is for Zip Code Targeting</h2>
+<p>Zip code targeting allows advertisers to reach audiences in certain areas.</p>
+
+<br>
+
+<h4><em>Sources</em></h4>
+<p>
+https://support.google.com/partners/answer/6322164?hl=en&ref_topic=6322135&visit_id=1-636603092120448221-1185503991&rd=1
+</p>
+            </section>
+
+            <!-- Email subscribe form at the bottom of the page -->
+            
+ <!--            
+               <section class="subscribe-form">
+                    <h3 class="subscribe-form-title">Subscribe to Under The Seo</h3>
+                    <p>Get the latest posts delivered right to your inbox</p>
+                    <form method="post" action="/subscribe/" class="">
+    <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
+
+    <div class="form-group">
+        <input class="subscribe-email" type="email" name="email"  placeholder="youremail@example.com" />
+    </div>
+    <button class="" type="submit" disabled><span>Subscribe</span></button>
+    <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script>
+</form>
+
+                </section>
+-->
+            
+
+            <footer class="post-full-footer">
+                <!-- Everything inside the #author tags pulls data from the author -->
+                <!-- #author-->
+                
+                    
+                        <section class="author-card">
+                            
+                                <img class="author-profile-image" src="assets/images/undertheseologo.png" alt="ghost" />
+                            
+                            <section class="author-card-content">
+                                <h4 class="author-card-name">Under The Seo</h4>
+                                
+                                    <p>Search Marketing Topics and Optimization</p>
+                                
+                            </section>
+                        </section>
+                
+                <!-- /author  -->
+            </footer>
+
+            <!-- If you use Disqus comments, just uncomment this block.
+            The only thing you need to change is "test-apkdzgmqhj" - which
+            should be replaced with your own Disqus site-id. -->
+            
+
+        </article>
+
+    </div>
+</main>
+
+ <!-- The footer at the very bottom of the screen -->
+        <footer class="site-footer outer">
+            <div class="site-footer-content inner">
+                <section class="copyright"><a href=".../">Under The SEO</a> &copy; 2018</section>
+                <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
+                    <a href="https://pages.github.com/">GitHub Pages</a> using
+                    <a href="https://github.com/myJekyll/jasper2">Jasper2</a></section>
+            </div>
+        </footer>
+
+
+
+
+    <!-- highlight.js -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+    <!-- jQuery + Fitvids, which makes all video embeds responsive -->
+    <script
+        src="https://code.jquery.com/jquery-3.2.1.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous">
+    </script>
+    <script type="text/javascript" src="/jasper2/assets/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script>
+
+
+    <!-- Paginator increased to "infinit" in _config.yml -->
+    <!-- if paginator.posts  -->
+    <!-- <script>
+        var maxPages = parseInt('');
+    </script>
+    <script src="/jasper2/assets/js/infinitescroll.js"></script> -->
+    <!-- /endif -->
+
+    
+
+
+    <!-- Add Google Analytics  -->
+    <!-- Google Analytics Tracking code -->
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69281367-1', 'auto');
+  ga('send', 'pageview');
+
+ </script>
+
+
+    <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
+    
+        <script>
+
+// NOTE: Scroll performance is poor in Safari
+// - this appears to be due to the events firing much more slowly in Safari.
+//   Dropping the scroll event and using only a raf loop results in smoother
+//   scrolling but continuous processing even when not scrolling
+$(document).ready(function () {
+    // Start fitVids
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+    // End fitVids
+
+    var progressBar = document.querySelector('progress');
+    var header = document.querySelector('.floating-header');
+    var title = document.querySelector('.post-full-title');
+
+    var lastScrollY = window.scrollY;
+    var lastWindowHeight = window.innerHeight;
+    var lastDocumentHeight = $(document).height();
+    var ticking = false;
+
+    function onScroll() {
+        lastScrollY = window.scrollY;
+        requestTick();
+    }
+
+    function onResize() {
+        lastWindowHeight = window.innerHeight;
+        lastDocumentHeight = $(document).height();
+        requestTick();
+    }
+
+    function requestTick() {
+        if (!ticking) {
+            requestAnimationFrame(update);
+        }
+        ticking = true;
+    }
+
+    function update() {
+        var trigger = title.getBoundingClientRect().top + window.scrollY;
+        var triggerOffset = title.offsetHeight + 35;
+        var progressMax = lastDocumentHeight - lastWindowHeight;
+
+        // show/hide floating header
+        if (lastScrollY >= trigger + triggerOffset) {
+            header.classList.add('floating-active');
+        } else {
+            header.classList.remove('floating-active');
+        }
+
+        progressBar.setAttribute('max', progressMax);
+        progressBar.setAttribute('value', lastScrollY);
+
+        ticking = false;
+    }
+
+    window.addEventListener('scroll', onScroll, {passive: true});
+    window.addEventListener('resize', onResize, false);
+
+    update();
+});
+</script>
+
+    
+
+    <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
+    <!-- ghost_foot -->
+
+</body>
+</html>
